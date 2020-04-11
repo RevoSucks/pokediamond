@@ -1,0 +1,5 @@
+# Object files
+*.nds
+
+# Compilers
+tools/mwccarm/**
