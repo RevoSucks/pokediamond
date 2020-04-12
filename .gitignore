@@ -3,3 +3,6 @@
 
 # Compilers
 tools/mwccarm/**
+
+# Build folder
+build/**
